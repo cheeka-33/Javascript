@@ -1,0 +1,25 @@
+-> European computer manufacturer association is a non profit organization 
+which develops standards in computer hardware , communications and programming languages
+
+->Js was standardized by ecma and think of ecmascript as 
+javascript without a host environment.
+
+->Its a scripting languages intended to ensure the interoperability of web pages
+across different web browsers
+
+-> its used in client side scripting on www, its increasingly being used in server side applications
+and services across runtime environment.
+
+->Its only language syntax and semantics of the core api such
+as array function and globalThis,while valid implementaions
+of the javascript add thir own functionality such as input/otput and file system handling.
+
+
+HOW JS AND ECMA ARE RELATED?
+
+The core language of js is standardized by ecma tc39 committee as a language renamed as ecmascript. 
+its a term used for language standarized ,ecma and js can be used interchangibly.
+
+js in a web browser context contains several very different elements.
+one of them is core language (ecmascript) and another is the collection of web api including dom
+(document object model).

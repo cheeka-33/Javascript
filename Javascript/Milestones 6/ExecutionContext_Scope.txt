@@ -1,0 +1,35 @@
+// Execution Context
+//  Js done lot of things behind the scenes. Let's see
+var n = 5;
+
+function square(n) {
+  var ans = n * n;
+  return ans;
+}
+
+var square1 = square(n);
+var square2 = square(8);  
+
+console.log(square1)
+console.log(square2)
+
+n is initialized and assigned a value of 5
+We defined a function square() that accepts an argument n and returns the square of n.
+We call the square() function and store the returned value in the square1 variable.
+We call the square() function and store the returned value in the square2 variable.
+Finally, it outputs both square1 and square2
+
+After these steps it will do execution Context
+It has two steps
+-> Global
+The global execution context is created when a JavaScript script first starts to run, 
+and it represents the global scope
+->Function
+ A function execution context is created whenever a function is called, 
+ representing the function's local scope.
+
+ Phases of the execution context
+ ->Creation Phase
+ ->Execution phase 
+
+

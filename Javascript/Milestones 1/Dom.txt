@@ -1,0 +1,20 @@
+-> Document object model 
+
+-> it's a programming interface for html and xml langugaes.
+Logical structure doesn't specify the relationship b/w objects.
+
+->Way to represent the webpage in structured hierarchial way so 
+that easier for programmers and users to glide throught the documents.
+
+-> It's is an api represents and interacts with html or xml documents.
+
+->html is used to structure the web pages and js add behavior to web pages
+When the html file loaded in browser the js cannot understand the html documentsits interacts
+ with dom which is created by browser based on html documents
+
+
+-> js cannot understand tags but understand object h1 in dom.
+its can access each of the objects using various functions
+
+->Documents are modeled using objects , the model not only using the structure
+and also using behaviour of the dcuments

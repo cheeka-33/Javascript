@@ -1,0 +1,27 @@
+-> Mocha , livescript and then javascript these are different names for the js.
+
+->Js was invented by brendan eich in 1995.
+
+->its developed for netscape 2, became an ecma-262 standard in 1997.
+
+-> After netscape handed javascript over to ecma, the mozilla foundation continued to develop the javascript
+for the firefox browser.
+
+-> Mozilla latest version was 1.8.5 identical to es5
+
+-> Internet explorer 4 was the first browser to support ecma 262 edition 1.
+
+-> Netscape and brendan eich took js to the ecma international standards organization, and the technical committee 
+was created to develop the language.
+ecma 262 edition 1 was released in 1997 june.
+
+->from es4 to es6
+
+->tc39 committee got together in oslo to upgrade the ecmascript version 3 to next versions
+
+-> Divided into 2 camps 1.ecmascript 3.1 2.ecmascript 4
+
+-> es4 renamed as es5
+-> Its a incremental upgrade of es3
+->feature of es4 picked up in later version
+-> tc39 working on for the scope bigger than in es5
